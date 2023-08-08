@@ -48,4 +48,4 @@ This Python script scrapes restaurant data from the MangoPlate website using the
 ## Note
 
 - Make sure to set up the MongoDB connection properly before running the script.
-- This script is based on the MangoPlate website structure as of the knowledge cutoff date in September 2021. Any changes to the website structure may require modifications to the script.# mangoplate-api-based-scraper
+- This script is based on the MangoPlate website structure while writing the script. Any changes to the website structure may require modifications to the script.# mangoplate-api-based-scraper
